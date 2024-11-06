@@ -10,7 +10,7 @@ const path = require("path");
 dotenv.config();
 connectDB();
 const app = express();
-
+console.log(process.env.PORT)
 app.use(express.json()); // to accept json data
 
 // app.get("/", (req, res) => {
