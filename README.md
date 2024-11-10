@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://ChatApp.onrender.com/](https://ChatApp.onrender.com)
+[https://talkative.onrender.com/](https://talkative.onrender.com)
 
 ![](https://github.com/krish10924/ChatApp/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
